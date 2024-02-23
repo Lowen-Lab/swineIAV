@@ -11,3 +11,4 @@
 8. swineIAV_iSNV_table.run#_single.txt - tables containing the iSNVs detected in our manuscript
 9. all_refs.fasta - a fasta file containing the lineage I and II major haplotypes that were used for read mapping in our manuscript
 10. S_NS_ratio_summary.txt - the table that contains all S and NS iSNV counts used to calculate the S/NS ratios from our manuscript
+11. read_map_summary.all_pigs.pdf - Figures that summarize the read mapping coverage, location and frequency of dSNPs, and assigned genotype of all pigs from the fair
